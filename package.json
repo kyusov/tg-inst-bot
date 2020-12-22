@@ -1,0 +1,28 @@
+{
+  "name": "tg-inst-bot",
+  "version": "1.0.0",
+  "description": "telegram bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyusov/tg-inst-bot.git"
+  },
+  "keywords": [
+    "bot",
+    "telegram",
+    "instagram"
+  ],
+  "author": "Kirill Yusov, Jenya Oseledets",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kyusov/tg-inst-bot/issues"
+  },
+  "homepage": "https://github.com/kyusov/tg-inst-bot#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "telegraf": "^3.38.0"
+  }
+}
